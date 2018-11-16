@@ -1,0 +1,12 @@
+{
+    "users": [
+        {"id": "23", "firstName": "Greg", "age": 20, "companyId": "1"},
+        {"id": "30", "firstName": "Kerry", "age": 45, "companyId": "1"},
+        {"id": "89", "firstName": "Susan", "age": 18, "companyId": "2"}
+    ],
+    "companies": [
+        {"id": "1", "name": "Google", "description": "all knowing is our motto"},
+        {"id": "2", "name": "Macro Conscious", "description": "not sure"},
+        {"id": "3", "name": "L.L. Bean", "description": "Boots on boots"}  
+    ]
+}
